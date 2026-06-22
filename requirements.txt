@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+pandas
+ydata-profiling
+python-dotenv
+streamlit
+openai
+jupyter
+black
+ruff

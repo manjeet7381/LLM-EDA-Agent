@@ -1,0 +1,17 @@
+venv/
+LLM_EDA/
+__pycache__/
+*.pyc
+.env
+data/raw/*.csv
+reports/*.html
+.DS_Store"LLM_EDA/" 
+"venv/" 
+"__pycache__/" 
+"LLM_EDA/" 
+"venv/" 
+"__pycache__/" 
+"LLM_EDA/" 
+"venv/" 
+"__pycache__/" 
+"*.dll" 
