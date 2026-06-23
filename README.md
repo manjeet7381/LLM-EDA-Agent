@@ -19,15 +19,15 @@ An intelligent agent that automatically profiles, cleans messy CSV datasets, and
 ## 📸 Screenshots
 
 ### 1. Upload & Run Pipeline
-![Upload Screen][(screenshots/upload_screen.png)]
+![Upload Screen](screenshots/upload_screen.png)
 
 ### 2. Agent Processing & Summary
-![Agent Output][(screenshots/Agent_processing_and_summary.png)]
+![Agent Output](screenshots/Agent_processing_and_summary.png)
 ### 3. Interactive Profile Report
-![Profile Report][(screenshots/Interactive_profile_report.png)]
+![Profile Report](screenshots/Interactive_profile_report.png)
 
 ### 4. Cleaned Data Sample
-![Cleaned Sample][(screenshots/cleaned_sample.png)]
+![Cleaned Sample](screenshots/cleaned_sample.png)
 
 ## 🚀 How to Run Locally
 
